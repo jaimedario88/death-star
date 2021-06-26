@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\jaime\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\death-star-oAkCcdZW-py3.9\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\jaime\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\death-star-oAkCcdZW-py3.9\\Scripts\\python.exe",
+    "python.formatting.provider": "black"
 }
